@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+<email name="Swornim" address="swornimnepal2000@gmail.com" active="true"></email>
+<email name="Sharvatmika" address="SharvatmikaNepal2000@gmail.com" active="false"></email>
+</configuration>

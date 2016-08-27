@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<configuration>
+  <email name="Swornim" address="swornimnepal2000@gmail.com" active="true" />
+  <email name="Sharvatmika" address="SharvatmikaNepal2000@gmail.com" active="false" />
+  <email name="Suneel Sir" address="suneel@gmail.com" active="True" />
+  <email name="Paras" address="ara_ula@gmail.com" active="false" />
+</configuration>
